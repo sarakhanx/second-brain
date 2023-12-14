@@ -1,5 +1,5 @@
 ---
-title: อันนี้บ้าคลั่งไปแล้วว
+title: อันนี้บ้าคลั่งไปแล้วว หวะเฟิร์ส
 excerpt: Create your own template or use someone else's. Changing the template is a matter of updating one line
 ---
 
