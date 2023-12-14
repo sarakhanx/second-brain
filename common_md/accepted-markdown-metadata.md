@@ -3,9 +3,10 @@ title: Accepted Metadata for Markdown Files
 ---
 
 Here are all the metadata fields accepted by the linked-blog-starter-md template. All fields are optional.
+ตรงนี้ก็คือ เมต้า ดาต้าฟิลส โว้ววววววว มัน easy มากๆ เลย josh !
 
 ````
-title: "Title of Note"
+title: "ทุกอย่างมันเกินควบคุมไปหมดแล้ววววว"
 excerpt: "Excerpt shown in note preview + SEO"
 date: "2021-11-11"
 author:
