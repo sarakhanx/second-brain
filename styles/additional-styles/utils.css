@@ -1,3 +1,5 @@
+
+
 .internal-link-container > .note-preview {
   @apply hidden absolute w-[350px] left-0 z-50;
   text-align: left !important;
@@ -16,8 +18,7 @@
 }
 .internal-link {
   @apply rounded;
-  color: #0969da;
-  background-color: rgb(243 250 251) !important;
+  color: #fffeee;
 }
 
 /* Typography */
