@@ -1,6 +1,6 @@
 ---
 title: อันนี้บ้าคลั่งไปแล้วว หวะเฟิร์ส
-excerpt: Create your own template or use someone else's. Changing the template is a matter of updating one line
+excerpt: amplication คืออะไรซักอย่างที่มัน creative อะแหละ แล้วเว็บนี้ก็เลยทำมาเอาไว้เพื่อ second brain
 ---
 
 ## Problems with Obsidian Publish Alternatives (from ChatGPT):
