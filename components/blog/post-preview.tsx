@@ -22,10 +22,10 @@ const PostPreview = ({
       <div>
         <header>
           <h2 className="h4 mb-2">
-            <Link as={`/${slug}`} href="/[...slug]" className="hover:underline">{title}</Link>
+            <Link as={`/${slug}`} href="/[...slug]" className="text-pink-700 hover:underline">{title}</Link>
           </h2>
         </header>
-        <div className="text-lg text-gray-600 mb-4 text-ellipsis">
+        <div className="text-lg text-indigo-300 mb-4 text-ellipsis">
           {excerpt.slice(0, 500)}
         </div>
         <footer className="text-sm">
