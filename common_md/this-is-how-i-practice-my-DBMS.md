@@ -9,4 +9,5 @@ started
 ---
 
 not start yet but will start **soon**
-![[Pasted image 20240120120703.png]]
+
+![task-wire-design.png](attachments/task-wire-design.png)
