@@ -1,3 +1,9 @@
+---
+title: DBMS practice
+excerpt: sarawut khantiyoo practice DMBS with postgresQL in nextJS
+---
+
+
 started
  - from make a task application by using `postgres` , `nextjs` , `prisma` , `nextAuth` , `zustand`
 ### task feature
