@@ -44,7 +44,7 @@ tags:
     - `function`: ใช้เก็บฟังก์ชันเพื่อให้เป็นข้อมูลตัวแปร
 7. **ชนิดข้อมูลงาน (Structural Data Types)**
     - `interface`: ใช้กำหนดรูปแบบการกระทำของระบบหรืองานที่ต้องทำ
-[[Simply-Code-Click]]
+[Simple code click](Simply-Code-Click)
 
 ---
 
@@ -69,7 +69,7 @@ fmt.Printf("Hi, %s",user)
 Hi, Folks
 Hi, sarawut
 ```
-อ่านเพิ่มเติมเรื่อง execute ต่างๆเพิ่มที่ [[Go-execute]]
+อ่านเพิ่มเติมเรื่อง execute ต่างๆเพิ่มที่ [Click](Go-execute)
 ..
 .
 .
